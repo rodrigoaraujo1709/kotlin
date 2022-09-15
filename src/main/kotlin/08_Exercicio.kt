@@ -10,7 +10,7 @@ fun main(){
 
     var populacaoBrasil: Int = 211000000
 
-    println(pIBBrasil/populacaoBrasil)
+    println("R$ ${pIBBrasil/populacaoBrasil} PIB percapita")
 
 
 }
